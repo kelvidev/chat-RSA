@@ -63,6 +63,17 @@ Para sair:
 
 ---
 
+## Testando o SHA256
+
+```bash
+cd Sha256
+python sha256_impl.py
+```
+
+Resultado esperado: **TUDO CORRETO**
+
+---
+
 ## Rodando os testes
 
 ```bash
